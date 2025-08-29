@@ -12,3 +12,5 @@ Aplicativo desenvolvido para smartphones android, utilizando Flutter, tendo em v
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="50" height="50" />
+
