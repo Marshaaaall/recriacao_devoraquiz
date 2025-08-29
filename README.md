@@ -1,0 +1,3 @@
+# DevoraQuiz
+
+Aplicativo desenvolvido para smartphones android, utilizando Flutter, tendo em vista os objetivos do projeto **"Alimentação em Jogo: Estratégias de Educação Alimentar e Nutricional para a garantia do Direito Humano à Alimentação Adequada na cidade de Campinas"**, desenvolvido no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, campus Campinas, tendo como orientadores as professoras Erika Batista e Joice Mendes.

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942947342262",
+    "project_id": "devoraquiz-209ff",
+    "storage_bucket": "devoraquiz-209ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942947342262:android:b4cab9b937490c23211317",
+        "android_client_info": {
+          "package_name": "com.ifsp.devoraquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942947342262-8rr56iepul861mlg8b3o99q81u72a3sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYA5YSMl1a_xe0OdNw6IKiuzcmQBGOar4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942947342262-8rr56iepul861mlg8b3o99q81u72a3sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
