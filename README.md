@@ -11,6 +11,4 @@ Aplicativo desenvolvido para smartphones android, utilizando Flutter, tendo em v
 <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin: 15px 0;"> <ul> <li><strong>Flutter</strong> - Framework principal para desenvolvimento multiplataforma.</li> <li><strong>Dart</strong> - Linguagem de programação</li> <li><strong>Firebase</strong> BACKEND - Banco de dados</li>
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="500" height="600" />
